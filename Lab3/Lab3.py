@@ -13,3 +13,7 @@ def write_text_file_with_name():
 # Example usage:
 write_text_file_with_name()
 
+def helloWorld():
+	print(‘Hello World’)
+
+helloWorld()

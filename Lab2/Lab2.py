@@ -17,3 +17,7 @@ def print_arguments():
 # Example usage:
 print_arguments()
 
+def helloWorld():
+	print(‘Hello World’)
+
+helloWorld()

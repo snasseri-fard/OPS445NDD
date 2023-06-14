@@ -24,3 +24,8 @@ def calculate_age():
 age = calculate_age()
 print("Your age is:", age)
 
+def helloWorld():
+	print(‘Hello World’)
+
+helloWorld()
+
