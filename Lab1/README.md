@@ -1,1 +1,1 @@
-### This my Lab 1 Repository
+### This is my Lab 1 Repository
