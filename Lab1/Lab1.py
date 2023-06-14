@@ -21,7 +21,6 @@ def calculate_age():
 
     return age
 
-# Example usage:
 age = calculate_age()
 print("Your age is:", age)
 
